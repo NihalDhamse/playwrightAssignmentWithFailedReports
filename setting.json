@@ -1,0 +1,9 @@
+
+
+{
+  "runMode": "parallel",
+  "headed": false,
+  "baseURL": "https://your-ui-test-site.com",
+  "username": "Nihal",
+  "password": "Nihal123"
+}
